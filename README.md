@@ -3,4 +3,4 @@
 
 ## Video Demo 
 
-- [Video]([https://docs.flutter.dev/get-started/codelab](https://imgur.com/EW5J4oG))
+- Video <video src="https://i.imgur.com/EW5J4oG.mp4"></video>
